@@ -1,0 +1,1 @@
+powershell ./trigger_lighting_always.ps1

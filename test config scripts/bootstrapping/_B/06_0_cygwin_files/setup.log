@@ -1,0 +1,163 @@
+2013/11/15 13:24:36 Starting cygwin install, version 2.831
+2013/11/15 13:24:36 User has backup/restore rights
+2013/11/15 13:24:36 io_stream_cygfile: fopen(/etc/setup/setup.rc) failed 2 No such file or directory
+2013/11/15 13:24:36 Current Directory: C:\Users\lab\Downloads
+2013/11/15 13:24:36 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2013/11/15 13:24:48 source: download
+2013/11/15 13:25:03 Selected local directory: C:\Users\lab\Downloads\cygwin_files
+2013/11/15 13:25:08 net: Direct
+2013/11/15 13:25:23 site: ftp://mirrors.kernel.org/sourceware/cygwin/
+2013/11/15 13:25:26 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2013/11/15 13:25:26 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2013/11/15 13:35:33 Adding required dependency bzip2: Selecting version 1.0.6-2 for installation.
+2013/11/15 13:35:33 Adding required dependency ca-certificates: Selecting version 1.94-1 for installation.
+2013/11/15 13:35:33 Adding required dependency csih: Selecting version 0.9.7-1 for installation.
+2013/11/15 13:35:33 Adding required dependency cygrunsrv: Selecting version 1.50-1 for installation.
+2013/11/15 13:35:33 Adding required dependency diffutils: Selecting version 3.3-1 for installation.
+2013/11/15 13:35:33 Adding required dependency groff: Selecting version 1.22.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency less: Selecting version 458-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libasn1_8: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libbz2_1: Selecting version 1.0.6-2 for installation.
+2013/11/15 13:35:33 Adding required dependency libcom_err2: Selecting version 1.42.7-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libcrypt0: Selecting version 1.1-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libcurl4: Selecting version 7.33.0-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libdb5.3: Selecting version 5.3.21-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libedit0: Selecting version 20130712-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libexpat1: Selecting version 2.1.0-3 for installation.
+2013/11/15 13:35:33 Adding required dependency libgcc1: Selecting version 4.8.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libgdbm4: Selecting version 1.10-2 for installation.
+2013/11/15 13:35:33 Adding required dependency libgmp10: Selecting version 5.1.3-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libgssapi3: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libheimbase1: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libheimntlm0: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libhx509_5: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libiconv2: Selecting version 1.14-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libidn11: Selecting version 1.26-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libintl8: Selecting version 0.18.1.1-3 for installation.
+2013/11/15 13:35:33 Adding required dependency libkafs0: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libkrb5_26: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency liblzma5: Selecting version 5.0.4-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libmetalink3: Selecting version 0.1.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libmpfr4: Selecting version 3.1.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libncursesw10: Selecting version 5.9-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libopenldap2_4_2: Selecting version 2.4.35-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libopenssl100: Selecting version 1.0.1e-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libp11-kit0: Selecting version 0.18.7-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libpcre1: Selecting version 8.33-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libpopt0: Selecting version 1.16-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libreadline7: Selecting version 6.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libroken18: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libsasl2_3: Selecting version 2.1.26-5 for installation.
+2013/11/15 13:35:33 Adding required dependency libsqlite3_0: Selecting version 3.7.17-3 for installation.
+2013/11/15 13:35:33 Adding required dependency libssh2_1: Selecting version 1.4.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libssp0: Selecting version 4.8.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libstdc++6: Selecting version 4.8.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libtasn1_6: Selecting version 3.3-1 for installation.
+2013/11/15 13:35:33 Adding required dependency libwind0: Selecting version 1.5.2-4 for installation.
+2013/11/15 13:35:33 Adding required dependency libwrap0: Selecting version 7.6-21 for installation.
+2013/11/15 13:35:33 Adding required dependency p11-kit: Selecting version 0.18.7-1 for installation.
+2013/11/15 13:35:33 Adding required dependency p11-kit-trust: Selecting version 0.18.7-1 for installation.
+2013/11/15 13:35:33 Adding required dependency perl: Selecting version 5.14.4-1 for installation.
+2013/11/15 13:35:33 Adding required dependency terminfo: Selecting version 5.9-4 for installation.
+2013/11/15 13:35:33 Adding required dependency texinfo: Selecting version 5.2-1 for installation.
+2013/11/15 13:35:33 Adding required dependency vim-common: Selecting version 7.3.1314-1 for installation.
+2013/11/15 13:35:33 Adding required dependency xxd: Selecting version 7.3.1314-1 for installation.
+2013/11/15 13:35:33 Adding required dependency xz: Selecting version 5.0.4-1 for installation.
+2013/11/15 13:35:33 Adding required dependency _autorebase: Selecting version 000040-1 for installation.
+2013/11/15 13:35:33 Adding required dependency _update-info-dir: Selecting version 00250-1 for installation.
+2013/11/15 13:35:34 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_autorebase/_autorebase-000040-1.tar.bz2
+2013/11/15 13:35:34 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_update-info-dir/_update-info-dir-00250-1.tar.bz2
+2013/11/15 13:35:35 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2013/11/15 13:35:35 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/base-cygwin/base-cygwin-3.3-1.tar.bz2
+2013/11/15 13:35:36 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/base-files/base-files-4.1-1.tar.bz2
+2013/11/15 13:35:38 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bash/bash-4.1.11-2.tar.bz2
+2013/11/15 13:35:38 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2013/11/15 13:35:40 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ca-certificates/ca-certificates-1.94-1.tar.xz
+2013/11/15 13:35:42 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/coreutils/coreutils-8.15-3.tar.bz2
+2013/11/15 13:35:43 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/csih/csih-0.9.7-1.tar.bz2
+2013/11/15 13:35:45 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/curl/curl-7.33.0-1.tar.xz
+2013/11/15 13:35:45 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygrunsrv/cygrunsrv-1.50-1.tar.xz
+2013/11/15 13:35:46 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygutils/cygutils-1.4.14-1.tar.bz2
+2013/11/15 13:35:48 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-1.7.25-1.tar.bz2
+2013/11/15 13:35:49 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/dash/dash-0.5.7-4.tar.bz2
+2013/11/15 13:35:50 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/diffutils/diffutils-3.3-1.tar.bz2
+2013/11/15 13:35:51 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/editrights/editrights-1.02-1.tar.bz2
+2013/11/15 13:35:52 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/file/file-5.13-1.tar.bz2
+2013/11/15 13:35:54 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/findutils/findutils-4.5.11-1.tar.bz2
+2013/11/15 13:35:56 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gawk/gawk-4.1.0-1.tar.bz2
+2013/11/15 13:35:57 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/grep/grep-2.14-3.tar.xz
+2013/11/15 13:36:00 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/groff/groff-1.22.2-1.tar.bz2
+2013/11/15 13:36:00 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gzip/gzip-1.4-1.tar.bz2
+2013/11/15 13:36:01 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/hostname/hostname-3.13-1.tar.bz2
+2013/11/15 13:36:01 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ipc-utils/ipc-utils-1.0-2.tar.bz2
+2013/11/15 13:36:02 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/less/less-458-1.tar.bz2
+2013/11/15 13:36:04 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libasn1_8/libasn1_8-1.5.2-4.tar.bz2
+2013/11/15 13:36:04 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2013/11/15 13:36:04 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2013/11/15 13:36:05 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/e2fsprogs/libcom_err2/libcom_err2-1.42.7-1.tar.bz2
+2013/11/15 13:36:05 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/crypt/libcrypt0/libcrypt0-1.1-1.tar.bz2
+2013/11/15 13:36:06 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/curl/libcurl4/libcurl4-7.33.0-1.tar.xz
+2013/11/15 13:36:08 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/db/libdb5.3/libdb5.3-5.3.21-1.tar.bz2
+2013/11/15 13:36:08 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+2013/11/15 13:36:09 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/expat/libexpat1/libexpat1-2.1.0-3.tar.bz2
+2013/11/15 13:36:09 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libgcc1/libgcc1-4.8.2-1.tar.xz
+2013/11/15 13:36:10 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gdbm/libgdbm4/libgdbm4-1.10-2.tar.bz2
+2013/11/15 13:36:11 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gmp/libgmp10/libgmp10-5.1.3-1.tar.xz
+2013/11/15 13:36:12 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libgssapi3/libgssapi3-1.5.2-4.tar.bz2
+2013/11/15 13:36:13 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libheimbase1/libheimbase1-1.5.2-4.tar.bz2
+2013/11/15 13:36:13 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libheimntlm0/libheimntlm0-1.5.2-4.tar.bz2
+2013/11/15 13:36:15 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libhx509_5/libhx509_5-1.5.2-4.tar.bz2
+2013/11/15 13:36:17 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libiconv/libiconv2/libiconv2-1.14-1.tar.bz2
+2013/11/15 13:36:17 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libidn/libidn11/libidn11-1.26-1.tar.bz2
+2013/11/15 13:36:18 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gettext/libintl8/libintl8-0.18.1.1-3.tar.bz2
+2013/11/15 13:36:18 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libkafs0/libkafs0-1.5.2-4.tar.bz2
+2013/11/15 13:36:20 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libkrb5_26/libkrb5_26-1.5.2-4.tar.bz2
+2013/11/15 13:36:21 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/liblzma5/liblzma5-5.0.4-1.tar.bz2
+2013/11/15 13:36:21 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libmetalink/libmetalink3/libmetalink3-0.1.2-1.tar.bz2
+2013/11/15 13:36:22 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mpfr/libmpfr4/libmpfr4-3.1.2-1.tar.bz2
+2013/11/15 13:36:23 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/libncursesw10/libncursesw10-5.9-4.tar.bz2
+2013/11/15 13:36:24 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openldap/libopenldap2_4_2/libopenldap2_4_2-2.4.35-1.tar.bz2
+2013/11/15 13:36:25 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/libopenssl100/libopenssl100-1.0.1e-1.tar.bz2
+2013/11/15 13:36:26 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/libp11-kit0/libp11-kit0-0.18.7-1.tar.xz
+2013/11/15 13:36:27 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/pcre/libpcre1/libpcre1-8.33-1.tar.bz2
+2013/11/15 13:36:27 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/popt/libpopt0/libpopt0-1.16-1.tar.bz2
+2013/11/15 13:36:28 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/readline/libreadline7/libreadline7-6.2-1.tar.bz2
+2013/11/15 13:36:28 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libroken18/libroken18-1.5.2-4.tar.bz2
+2013/11/15 13:36:29 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cyrus-sasl/libsasl2_3/libsasl2_3-2.1.26-5.tar.bz2
+2013/11/15 13:36:31 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sqlite3/libsqlite3_0/libsqlite3_0-3.7.17-3.tar.bz2
+2013/11/15 13:36:31 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libssh2/libssh2_1/libssh2_1-1.4.2-1.tar.bz2
+2013/11/15 13:36:32 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libssp0/libssp0-4.8.2-1.tar.xz
+2013/11/15 13:36:33 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/gcc/libstdc++6/libstdc++6-4.8.2-1.tar.xz
+2013/11/15 13:36:33 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/libtasn1/libtasn1_6/libtasn1_6-3.3-1.tar.bz2
+2013/11/15 13:36:34 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/heimdal/libwind0/libwind0-1.5.2-4.tar.bz2
+2013/11/15 13:36:34 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tcp_wrappers/libwrap0/libwrap0-7.6-21.tar.bz2
+2013/11/15 13:36:35 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/login/login-1.10-10.tar.bz2
+2013/11/15 13:36:36 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/man/man-1.6g-2.tar.bz2
+2013/11/15 13:36:37 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/mintty/mintty-1.2-beta1-1.tar.bz2
+2013/11/15 13:36:37 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/nano/nano-2.2.6-1.tar.bz2
+2013/11/15 13:36:39 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssh/openssh-6.4p1-1.tar.xz
+2013/11/15 13:36:40 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/openssl/openssl-1.0.1e-1.tar.bz2
+2013/11/15 13:36:41 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-0.18.7-1.tar.xz
+2013/11/15 13:36:41 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/p11-kit/p11-kit-trust/p11-kit-trust-0.18.7-1.tar.xz
+2013/11/15 13:36:50 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/perl/perl-5.14.4-1.tar.bz2
+2013/11/15 13:36:50 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.0.1-1.tar.bz2
+2013/11/15 13:36:51 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/run/run-1.3.0-1.tar.bz2
+2013/11/15 13:36:52 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sed/sed-4.2.2-3.tar.bz2
+2013/11/15 13:36:52 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/shutdown/shutdown-1.10-1.tar.bz2
+2013/11/15 13:36:54 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tar/tar-1.26-1.tar.bz2
+2013/11/15 13:36:55 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/ncurses/terminfo/terminfo-5.9-4.tar.bz2
+2013/11/15 13:36:57 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/texinfo/texinfo-5.2-1.tar.xz
+2013/11/15 13:36:59 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/tzcode/tzcode-2013c-1.tar.bz2
+2013/11/15 13:37:00 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/unzip/unzip-6.0-1.tar.bz2
+2013/11/15 13:37:01 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-7.3.1314-1.tar.xz
+2013/11/15 13:37:05 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-common/vim-common-7.3.1314-1.tar.xz
+2013/11/15 13:37:07 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/vim-minimal/vim-minimal-7.3.1314-1.tar.xz
+2013/11/15 13:37:08 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/wget/wget-1.13.4-1.tar.bz2
+2013/11/15 13:37:08 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/which/which-2.20-2.tar.bz2
+2013/11/15 13:37:09 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/vim/xxd/xxd-7.3.1314-1.tar.xz
+2013/11/15 13:37:10 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/xz/xz-5.0.4-1.tar.bz2
+2013/11/15 13:37:11 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zip/zip-3.0-1.tar.bz2
+2013/11/15 13:37:11 Downloaded C:\Users\lab\Downloads\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/zlib/zlib0/zlib0-1.2.8-1.tar.bz2
+2013/11/15 13:37:23 note: Download Complete
+2013/11/15 13:37:23 Ending cygwin install

@@ -1,0 +1,47 @@
+[SERVER_IP]
+[FRAME_ORIENTATION],[FRAME_SIDE],[UNIT_INDEX],[ARRANGEMENT_INDEX],[STROKE_COLOR]
+[FLIP_SCREEN]
+[TABLET_DEBUG]
+[CAMERA_INDEX]
+
+# This is a fixed-format config file used by both structure clients (as structure_client.txt) and tablet clients (as tablet_client.txt)
+#   The lines which begin with a `#` do not appear in the final format. They are included for documentation and commenting here.
+#   Following is a description of the purpose and valid values for all the key names above
+#   Each entry is described as:
+# KEY (POSSIBLE VALUES)
+#   DESCRIPTION
+# 
+# 
+# SERVER_IP (10.250.165.*) 
+#   The address to the machine running the Frames Server, for production this will be either 10.250.165.254 or 10.250.165.253
+# 
+# FRAME_ORIENTATION (H|V) 
+#   Referrs to which frame the structure client is mounted on. `H` for Horizontal frame and `V` for Vertical frame.
+#   Often this value will be `N` for non-structure devices
+# 
+# FRAME_SIDE (0|1)
+#   Referrs to whether the structure client is on the front (0) or back (1) side of it's given frame. 
+#   Front and back are not strictly defined, they just need to be consistent between structure clients
+# 
+# UNIT_INDEX (1-8)
+#   Identifies the position of this structure client on it's side of it's frame. 
+#   The top center-most unit on a given side is unit `1`. 
+#   Unit numbers increment as you travel around the frame until unit `8` which is the bottom center-most unit.
+# 
+# ARRANGEMENT_INDEX (0|1)
+#   This controls what format on-screen ultrabooks are displayed in on structure clients.
+#   `0` will show a 2x2 grid of ultrabooks
+#   `1` (currently used value) will show one ultrabook full-screen
+#
+# STROKE_COLOR (black|white)
+#   Tells the structure clients which color to use for the strokes when playing back user input
+# 
+# FLIP_SCREEN (true|false)
+#   Tells the structure client whether to render the screen upside-down
+# 
+# TABLET_DEBUG (true|false)
+#   This is used to enabling/disabling debug mode on the tablet clients
+# 
+# CAMERA_INDEX (0|1)
+#   This tells the tablet clients which camera to use for AR tracking. 
+#   The camera index for the rear camera is inconsistent between computer models.

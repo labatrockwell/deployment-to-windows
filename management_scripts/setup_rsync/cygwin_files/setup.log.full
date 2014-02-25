@@ -1,0 +1,150 @@
+2013/12/09 18:45:44 Starting cygwin install, version 2.831
+2013/12/09 18:45:44 User has backup/restore rights
+2013/12/09 18:45:44 Current Directory: C:\Users\lab\Downloads\cygwin_files
+2013/12/09 18:45:44 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2013/12/09 18:45:50 source: download
+2013/12/09 18:46:23 Selected local directory: E:\setup_rsync\cygwin_files
+2013/12/09 18:46:27 net: Direct
+Loaded cached mirror list
+get_url_to_membuf http://cygwin.com/mirrors.lst
+getUrlToStream http://cygwin.com/mirrors.lst
+2013/12/09 18:46:31 site: ftp://mirrors.kernel.org/sourceware/cygwin/
+get_url_to_membuf ftp://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2
+getUrlToStream ftp://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2
+ftp > 220 Welcome to mirrors.kernel.org.
+ftp > 331 Please specify the password.
+ftp > 230-			    Welcome to the
+ftp > 230-
+ftp > 230-		Welcome to the mirrors archives of the
+ftp > 230-			LINUX KERNEL ARCHIVES
+ftp > 230-			  mirrors.kernel.org
+ftp > 230-
+ftp > 230-This site contains mirrors of other archives.  If you are looking for
+ftp > 230-   the Linux Kernel Archives, please go to ftp.kernel.org instead.
+ftp > 230-
+ftp > 230-This site is provided as a public service by the Linux Kernel
+ftp > 230-Organization, a California nonprofit corporation.  Bandwidth is
+ftp > 230-provided by The Internet Software Consortium, Inc.  Our servers are
+ftp > 230-located in San Francisco and Palo Alto, California; Corvallis, Oregon;
+ftp > 230-Amsterdam, Netherlands and Umeå, Sweden; use in violation of any
+ftp > 230-applicable laws strictly prohibited.
+ftp > 230-
+ftp > 230-Due to U.S. Exports Regulations, all cryptographic software on this
+ftp > 230-site is subject to the following legal notice:
+ftp > 230-
+ftp > 230-    This site includes publicly available encryption source code
+ftp > 230-    which, together with object code resulting from the compiling of
+ftp > 230-    publicly available source code, may be exported from the United
+ftp > 230-    States under License Exception "TSU" pursuant to 15 C.F.R. Section
+ftp > 230-    740.13(e).
+ftp > 230-
+ftp > 230-This legal notice applies to cryptographic software only.  Please see
+ftp > 230-the Bureau of Industry and Security (http://www.bis.doc.gov/) for more
+ftp > 230-information about current U.S. regulations.
+ftp > 230-
+ftp > 230-Neither the Linux Kernel Organization, nor its sponsors make any
+ftp > 230-guarantees, explicit or implicit, about the contents of this site.
+ftp > 230-Use at your own risk.
+ftp > 230-
+ftp > 230-This site is accessible via the following mechanisms:
+ftp > 230-
+ftp > 230-	FTP		ftp://mirrors.kernel.org/
+ftp > 230-	HTTP		http://mirrors.kernel.org/
+ftp > 230-	RSYNC		rsync://mirrors.kernel.org/
+ftp > 230-
+ftp > 230-NFS and SMB/CIFS are no longer available.
+ftp > 230-
+ftp > 230-For comments on this site, please contact <ftpadmin@kernel.org>.
+ftp > 230-Please do not use this address for questions that are not related to
+ftp > 230-the operation of this site.  Please see our homepage at
+ftp > 230-http://www.kernel.org/ for links to Linux documentation resources.
+ftp > 230-
+ftp > 230 Login successful.
+ftp > 200 Switching to Binary mode.
+ftp > 227 Entering Passive Mode (149,20,4,71,119,112).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin/x86_64/setup.bz2 (302254 bytes).
+ftp > 226 Transfer complete.
+get_url_to_membuf ftp://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2.sig
+getUrlToStream ftp://mirrors.kernel.org/sourceware/cygwin/x86_64/setup.bz2.sig
+ftp > 227 Entering Passive Mode (149,20,4,71,119,112).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin/x86_64/setup.bz2.sig (72 bytes).
+ftp > 226 Transfer complete.
+get_url_to_file ftp://mirrors.kernel.org/sourceware/cygwin//x86_64/release/_autorebase/_autorebase-000056-1.tar.bz2 E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_autorebase/_autorebase-000056-1.tar.bz2.tmp
+ftp > 421 Timeout.
+FTP timeout -- reconnecting
+ftp > 220 Welcome to mirrors.kernel.org.
+ftp > 331 Please specify the password.
+ftp > 230-			    Welcome to the
+ftp > 230-
+ftp > 230-		Welcome to the mirrors archives of the
+ftp > 230-			LINUX KERNEL ARCHIVES
+ftp > 230-			  mirrors.kernel.org
+ftp > 230-
+ftp > 230-This site contains mirrors of other archives.  If you are looking for
+ftp > 230-   the Linux Kernel Archives, please go to ftp.kernel.org instead.
+ftp > 230-
+ftp > 230-This site is provided as a public service by the Linux Kernel
+ftp > 230-Organization, a California nonprofit corporation.  Bandwidth is
+ftp > 230-provided by The Internet Software Consortium, Inc.  Our servers are
+ftp > 230-located in San Francisco and Palo Alto, California; Corvallis, Oregon;
+ftp > 230-Amsterdam, Netherlands and Umeå, Sweden; use in violation of any
+ftp > 230-applicable laws strictly prohibited.
+ftp > 230-
+ftp > 230-Due to U.S. Exports Regulations, all cryptographic software on this
+ftp > 230-site is subject to the following legal notice:
+ftp > 230-
+ftp > 230-    This site includes publicly available encryption source code
+ftp > 230-    which, together with object code resulting from the compiling of
+ftp > 230-    publicly available source code, may be exported from the United
+ftp > 230-    States under License Exception "TSU" pursuant to 15 C.F.R. Section
+ftp > 230-    740.13(e).
+ftp > 230-
+ftp > 230-This legal notice applies to cryptographic software only.  Please see
+ftp > 230-the Bureau of Industry and Security (http://www.bis.doc.gov/) for more
+ftp > 230-information about current U.S. regulations.
+ftp > 230-
+ftp > 230-Neither the Linux Kernel Organization, nor its sponsors make any
+ftp > 230-guarantees, explicit or implicit, about the contents of this site.
+ftp > 230-Use at your own risk.
+ftp > 230-
+ftp > 230-This site is accessible via the following mechanisms:
+ftp > 230-
+ftp > 230-	FTP		ftp://mirrors.kernel.org/
+ftp > 230-	HTTP		http://mirrors.kernel.org/
+ftp > 230-	RSYNC		rsync://mirrors.kernel.org/
+ftp > 230-
+ftp > 230-NFS and SMB/CIFS are no longer available.
+ftp > 230-
+ftp > 230-For comments on this site, please contact <ftpadmin@kernel.org>.
+ftp > 230-Please do not use this address for questions that are not related to
+ftp > 230-the operation of this site.  Please see our homepage at
+ftp > 230-http://www.kernel.org/ for links to Linux documentation resources.
+ftp > 230-
+ftp > 230 Login successful.
+ftp > 200 Switching to Binary mode.
+ftp > 227 Entering Passive Mode (149,20,20,135,117,89).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin//x86_64/release/_autorebase/_autorebase-000056-1.tar.bz2 (316 bytes).
+ftp > 226 Transfer complete.
+2013/12/09 18:55:32 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_autorebase/_autorebase-000056-1.tar.bz2
+get_url_to_file ftp://mirrors.kernel.org/sourceware/cygwin//x86_64/release/cygwin/cygwin-1.7.27-2.tar.xz E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-1.7.27-2.tar.xz.tmp
+ftp > 227 Entering Passive Mode (149,20,20,135,118,65).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin//x86_64/release/cygwin/cygwin-1.7.27-2.tar.xz (2097536 bytes).
+ftp > 226 Transfer complete.
+2013/12/09 18:55:38 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-1.7.27-2.tar.xz
+get_url_to_file ftp://mirrors.kernel.org/sourceware/cygwin//x86_64/release/sqlite3/libsqlite3_0/libsqlite3_0-3.8.2-2.tar.xz E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sqlite3/libsqlite3_0/libsqlite3_0-3.8.2-2.tar.xz.tmp
+ftp > 227 Entering Passive Mode (149,20,20,135,119,170).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin//x86_64/release/sqlite3/libsqlite3_0/libsqlite3_0-3.8.2-2.tar.xz (334948 bytes).
+ftp > 226 Transfer complete.
+2013/12/09 18:55:39 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sqlite3/libsqlite3_0/libsqlite3_0-3.8.2-2.tar.xz
+get_url_to_file ftp://mirrors.kernel.org/sourceware/cygwin//x86_64/release/rebase/rebase-4.4.1-1.tar.bz2 E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2.tmp
+ftp > 227 Entering Passive Mode (149,20,20,135,120,4).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin//x86_64/release/rebase/rebase-4.4.1-1.tar.bz2 (205029 bytes).
+ftp > 226 Transfer complete.
+2013/12/09 18:55:41 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2
+get_url_to_file ftp://mirrors.kernel.org/sourceware/cygwin//x86_64/release/rsync/rsync-3.0.9-1.tar.bz2 E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.0.9-1.tar.bz2.tmp
+ftp > 227 Entering Passive Mode (149,20,20,135,117,191).
+ftp > 150 Opening BINARY mode data connection for /sourceware/cygwin//x86_64/release/rsync/rsync-3.0.9-1.tar.bz2 (285120 bytes).
+ftp > 226 Transfer complete.
+2013/12/09 18:55:42 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.0.9-1.tar.bz2
+2013/12/09 18:55:47 note: Download Complete
+2013/12/09 18:55:47 Ending cygwin install

@@ -1,0 +1,1 @@
+C:\Users\lab\Downloads\scripts\setbackground\black.theme

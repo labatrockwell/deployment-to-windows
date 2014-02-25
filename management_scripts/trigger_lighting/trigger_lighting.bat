@@ -1,0 +1,1 @@
+powershell ./trigger_lighting.ps1

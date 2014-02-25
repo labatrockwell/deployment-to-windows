@@ -1,0 +1,15 @@
+2013/12/09 18:45:44 Starting cygwin install, version 2.831
+2013/12/09 18:45:44 User has backup/restore rights
+2013/12/09 18:45:44 Current Directory: C:\Users\lab\Downloads\cygwin_files
+2013/12/09 18:45:44 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2013/12/09 18:45:50 source: download
+2013/12/09 18:46:23 Selected local directory: E:\setup_rsync\cygwin_files
+2013/12/09 18:46:27 net: Direct
+2013/12/09 18:46:31 site: ftp://mirrors.kernel.org/sourceware/cygwin/
+2013/12/09 18:55:32 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/_autorebase/_autorebase-000056-1.tar.bz2
+2013/12/09 18:55:38 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/cygwin/cygwin-1.7.27-2.tar.xz
+2013/12/09 18:55:39 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/sqlite3/libsqlite3_0/libsqlite3_0-3.8.2-2.tar.xz
+2013/12/09 18:55:41 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rebase/rebase-4.4.1-1.tar.bz2
+2013/12/09 18:55:42 Downloaded E:\setup_rsync\cygwin_files/ftp%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/x86_64/release/rsync/rsync-3.0.9-1.tar.bz2
+2013/12/09 18:55:47 note: Download Complete
+2013/12/09 18:55:47 Ending cygwin install

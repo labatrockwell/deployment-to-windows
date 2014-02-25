@@ -1,0 +1,1 @@
+mkdir -p /cygdrive/c/Users/lab/Downloads/scripts
